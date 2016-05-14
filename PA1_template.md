@@ -12,7 +12,6 @@ library(plyr)
 library(dplyr)
 library(Rmisc)
 library(ggplot2)
-library(knitr)
 ```
 
 The data file is uncompressed and read stored in the variable 'activity'.
